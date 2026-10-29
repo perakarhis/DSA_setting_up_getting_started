@@ -1,4 +1,4 @@
-# NJIT-DSA-2024 Setup
+# DSA Setup
 
 This readme instructs you on:
 
@@ -49,5 +49,5 @@ Each exercise and the course projects are now on your local PC. Study them and s
 * Course material for Tietorakenteet ja algoritmit | Data structures and algorithms 2021.
 * Study Program for Information Processing Science, Department of Information Technology and Electrical Engineering, University of Oulu.
 * Antti Juustila, INTERACT Research Group.
-* Modified for NJIT DSA:
+* Modified for NJIT and DICE DSA implementations 2026:
 * Pertti Karhapää, M3S Research Unit

@@ -1,4 +1,4 @@
-# NJIT-DSA-2024
+# DSA - Data Structures and Algorithms
 Repository for sharing information to get started with the programming tasks of the DSA course.
 
 You as a student should copy the repositories of the tasks by creating forks into your own github account. You then clone those forks to your own personal computer (PC). You will then work on those forked private repositories and use them to deliver your course work to the course teacher for evaluation.

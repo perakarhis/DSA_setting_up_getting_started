@@ -1,4 +1,4 @@
-# NJIT-DSA-2024 Tools
+# DSA Tools
 
 This readme instructs you what tools are needed and where to get them.
 
@@ -49,5 +49,5 @@ After installing the tools, continue reading how to set up the workspace you wil
 * Course material for Tietorakenteet ja algoritmit | Data structures and algorithms 2022.
 * Study Program for Information Processing Science, Department of Information Technology and Electical Engineering, University of Oulu.
 * Antti Juustila, INTERACT Research Group.
-* For NJIT DSA implementation:
+* For NJIT and DICE DSA implementations 2026:
 * Pertti Karhapää, M3S Research Unit
